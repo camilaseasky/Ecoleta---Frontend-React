@@ -36,7 +36,7 @@ entregar, mas não sabem onde podem levá-los.
     
   2. Cadastro do ponto de coleta: 
 
-  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/image_point.png" width="600px" height="400px" />
+  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/imagem_point.png" width="600px" height="400px" />
   <br />
   <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/point_dados.png" width="600px" height="400px" />
   <br />
@@ -50,7 +50,7 @@ entregar, mas não sabem onde podem levá-los.
   <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/sucesso.png" width="600px" height="400px" />
   
  
- ## :movie_camera: Vídeo demonstrando o uso da aplicação:  <a href="https://youtu.be/nvai8FTtzIY">Assistir</a>
+ ## :movie_camera: Vídeo demonstrando o uso da aplicação:  <a href="https://youtu.be/p10I47xasuE">Assistir</a>
 
  
  ## :star: O aprendizado:
