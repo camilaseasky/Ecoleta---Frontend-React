@@ -36,6 +36,8 @@ entregar, mas não sabem onde podem levá-los.
     
   2. Cadastro do ponto de coleta: 
 
+  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/image_point.png" width="600px" height="400px" />
+  <br />
   <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/point_dados.png" width="600px" height="400px" />
   <br />
   <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/point_endereco.png" width="600px" height="400px" />
