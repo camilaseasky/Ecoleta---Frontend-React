@@ -1,6 +1,5 @@
 <img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/src/assets/logo.svg" />
 
-# eColeta
 
 > Uma aplicação para cooperar com o meio ambiente e ainda aprender upload de arquivos, consumir api de localidades no react-select e muito mais!  :wink:
 
