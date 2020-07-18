@@ -1,4 +1,4 @@
-<img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/home.png" width="600px" height="400px"/>
+<img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/src/assets/logo.svg" />
 
 # eColeta
 
