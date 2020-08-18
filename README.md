@@ -30,23 +30,23 @@ entregar, mas não sabem onde podem levá-los.
  ### As telas da aplicação:
  1. Home: 
   
-  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/home.png" width="600px" height="400px"/>
+  <img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/docs/home.png" width="600px" height="400px"/>
   
     
   2. Cadastro do ponto de coleta: 
 
-  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/imagem_point.png" width="600px" height="400px" />
+  <img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/docs/imagem_point.png" width="600px" height="400px" />
   <br />
-  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/point_dados.png" width="600px" height="400px" />
+  <img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/docs/point_dados.png" width="600px" height="400px" />
   <br />
-  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/point_endereco.png" width="600px" height="400px" />
+  <img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/docs/point_endereco.png" width="600px" height="400px" />
   <br />
-  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/point_itens.png"  width="600px" height="400px"/>
+  <img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/docs/point_itens.png"  width="600px" height="400px"/>
   
  
   3. Mensagem de sucesso após a realização do cadastro: 
 
-  <img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/sucesso.png" width="600px" height="400px" />
+  <img src="https://github.com/camilaseasky/Ecoleta---Frontend-React/blob/master/docs/sucesso.png" width="600px" height="400px" />
   
  
  ## :movie_camera: Vídeo demonstrando o uso da aplicação:  <a href="https://youtu.be/p10I47xasuE">Assistir</a>
